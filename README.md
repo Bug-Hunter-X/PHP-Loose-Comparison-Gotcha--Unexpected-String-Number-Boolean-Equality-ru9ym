@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall in PHP: the unexpected behavior of loose comparisons (using ==) when comparing strings with numbers or booleans.  The code shows examples where seemingly dissimilar values are considered equal due to PHP's type juggling.  The solution offers a way to mitigate this using strict comparison (===).
